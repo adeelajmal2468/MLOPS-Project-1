@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 MONGODB Connection String.txt
-
+mongodb_check.py
 # C extensions
 *.so
 
