@@ -6,6 +6,8 @@ __pycache__/
 MONGODB Connection String.txt
 mongodb_check.py
 artifact/
+AWS Keys.txt
+firstproj_accessKeys.csv
 # C extensions
 *.so
 
