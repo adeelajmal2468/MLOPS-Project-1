@@ -8,6 +8,7 @@ mongodb_check.py
 artifact/
 AWS Keys.txt
 firstproj_accessKeys.csv
+mlops-proj1-key.pem
 # C extensions
 *.so
 
